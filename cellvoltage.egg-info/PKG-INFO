@@ -10,6 +10,9 @@ Requires-Dist: matplotlib
 Requires-Dist: seaborn
 Requires-Dist: jupyter
 Requires-Dist: openpyxl
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: shap
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
